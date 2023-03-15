@@ -14,6 +14,13 @@ TikzPictures = "37f6aa50-8035-52d0-81c2-5a1d08754b2d"
 
 [compat]
 julia = "1"
+ColorSchemes = "~3"
+Graphs = "~1"
+LaTeXStrings = "~1"
+MetaGraphs = "~0.7"
+PCquery = "~0.3"
+TikzGraphs = "~1"
+TikzPictures = "~3"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
